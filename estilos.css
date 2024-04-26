@@ -58,7 +58,8 @@ img {
     width: 190px;
 }
 
-.comic {
+#comic {
+    display: block;
     text-align: center;
     background-color: red;
     width: fit-content;
